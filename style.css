@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;   
+    background-color: rgb(247, 246, 244);
+    border-radius: 10px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: solid;
+    }
+
+.items{
+    display: flex;
+    text-align: center;
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: space-around;
+}    
+
+.corbeille{
+    width: 30px;
+}
+
+.coeur{width: 30px;}
+.img{
+    max-width: 400px;
+    max-height: 400px;
+}
